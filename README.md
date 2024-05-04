@@ -1,2 +1,2 @@
 # To-Do-List
-Basic to-do lisr app
+Basic to-do list app
